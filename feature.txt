@@ -1,2 +1,2 @@
-"This ia a new feature"
-"Feature updated"
+This is content from master
+Feature updated
